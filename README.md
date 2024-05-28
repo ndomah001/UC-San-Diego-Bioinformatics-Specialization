@@ -1,4 +1,4 @@
-# UC-San-Diego-Bioinformatics-Specialization
+# UC San Diego Bioinformatics Specialization
 
 [Access to Course](https://www.coursera.org/specializations/bioinformatics)
 
